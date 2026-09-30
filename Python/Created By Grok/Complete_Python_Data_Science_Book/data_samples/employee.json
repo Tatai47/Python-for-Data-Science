@@ -1,0 +1,12 @@
+{
+    "name": "Priya Sharma",
+    "department": "Analytics",
+    "role": "MBA Data Analyst",
+    "skills": [
+        "Python",
+        "SQL",
+        "Tableau"
+    ],
+    "salary": 1250000,
+    "active": true
+}

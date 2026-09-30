@@ -1,0 +1,14 @@
+numpy
+pandas
+polars
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+optuna
+pydantic
+streamlit
+spacy
+transformers
+torch

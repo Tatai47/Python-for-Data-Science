@@ -1,0 +1,3 @@
+# Install a RAPIDS stack that matches your NVIDIA driver/CUDA version.
+# See RAPIDS installation guidance for your platform before running Chapter 27.
+# Example package family: cudf, cuml

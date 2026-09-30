@@ -1,0 +1,15 @@
+lightgbm
+xgboost
+catboost
+pycaret
+h2o
+auto-sklearn
+flaml
+autogluon.tabular
+fastai
+lightning
+jax
+jaxlib
+langchain
+llama-index
+chromadb
