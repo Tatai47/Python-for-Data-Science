@@ -1,0 +1,183 @@
+order_id,order_date,customer_id,region,product,category,quantity,unit_price,unit_cost,status
+ORD00490,not-a-date,,  central ,Headphones,Electronics,-2,bad-price,1900,unknown-status
+ORD00434,2026-03-15,CUS0309,West,Keyboard,Accessories,5,1440.0,800,Paid
+ORD00562,2026-09-12,CUS0232,Central,Notebook,Stationery,3,120,55,Paid
+ORD00613,2026-04-28,CUS0307,East,Notebook,Stationery,2,120,55,Paid
+ORD00015,2026-01-31,CUS0204,West,Pen Pack,Stationery,2,85.5,32,Paid
+ORD00033,2026-06-20,CUS0267,  central ,Laptop,Electronics,2,55000,42000,Paid
+ORD00416,2026-08-19,CUS0224,Central,Notebook,Stationery,6,114.0,55,Paid
+ORD00192,2026-02-11,,Central,Chair,Furniture,6,5525.0,4300,Paid
+ORD00087,2026-03-22,CUS0094,West,USB Hub,Accessories,8,1125.0,620,Pending
+ORD00067,2026-01-20,CUS0328,South,Mouse,Accessories,3,bad-price,400,Cancelled
+ORD00181,2026-01-28,CUS0060,  central ,USB Hub,Accessories,3,1250,620,Paid
+ORD00134,2026-01-31,CUS0294,North,Monitor,Electronics,many,11900.0,9800,Paid
+ORD00337,2026-08-23,CUS0141,West,Desk,Furniture,5,9000,6200,Paid
+ORD00447,not-a-date,CUS0259,North,Mouse,Accessories,8,722.5,400,Pending
+ORD00594,2026-03-09,,South,Laptop,Electronics,6,46750.0,42000,Paid
+ORD00624,2026-02-08,CUS0271,  north ,Pen Pack,Stationery,8,81.0,32,Paid
+ORD00133,2026-04-26,CUS0341,North,Mouse,Accessories,7,850,400,Paid
+ORD00624,2026-02-08,CUS0271,North,Laptop,Electronics,1,55000,42000,unknown-status
+ORD00314,2026-08-30,CUS0344,North,Monitor,Electronics,7,bad-price,9800,Pending
+ORD00309,2026-06-24,CUS0355,Central,Chair,Furniture,-2,6500,4300,Paid
+ORD00257,2026-06-08,CUS0257,  south ,Monitor,Electronics,1,14000,9800,Paid
+ORD00466,2026-07-16,,North,Pen Pack,Stationery,3,85.5,32,Paid
+ORD00010,2026-04-16,CUS0183,West,Headphones,Electronics,many,3040.0,1900,Paid
+ORD00626,2026-03-15,CUS0173,Central,Chair,Furniture,6,5525.0,4300,Pending
+ORD00042,2026-04-26,CUS0049,East,Chair,Furniture,7,6175.0,4300,Paid
+ORD00178,2026-06-21,CUS0301,  west ,Keyboard,Accessories,5,1440.0,800,Paid
+ORD00067,not-a-date,CUS0328,South,Desk,Furniture,5,9000,6200,Cancelled
+ORD00637,2026-08-01,CUS0217,East,Keyboard,Accessories,3,bad-price,800,Paid
+ORD00094,2026-06-13,,Central,Headphones,Electronics,2,3040.0,1900,Paid
+ORD00140,2026-02-07,CUS0334,North,Chair,Furniture,2,6500,4300,Paid
+ORD00542,2026-02-19,CUS0223,  central ,Mouse,Accessories,5,765.0,400,Paid
+ORD00596,2026-03-02,CUS0129,West,Keyboard,Accessories,1,1600,800,Paid
+ORD00501,2026-06-10,CUS0172,Central,Mouse,Accessories,1,722.5,400,Paid
+ORD00366,2026-04-12,CUS0266,West,Mouse,Accessories,many,807.5,400,Returned
+ORD00609,2026-07-04,CUS0144,Central,Laptop,Electronics,1,55000,42000,unknown-status
+ORD00572,2026-02-22,,  east ,Monitor,Electronics,4,14000,9800,Paid
+ORD00108,2026-05-24,CUS0048,North,Mouse,Accessories,4,bad-price,400,Returned
+ORD00393,2026-09-16,CUS0142,North,Pen Pack,Stationery,4,90,32,Paid
+ORD00607,2026-03-07,CUS0343,North,Notebook,Stationery,-2,102.0,55,Paid
+ORD00034,not-a-date,CUS0146,Central,Pen Pack,Stationery,7,90,32,Paid
+ORD00315,2026-03-15,CUS0067,  south ,Pen Pack,Stationery,4,76.5,32,Paid
+ORD00248,2026-03-04,CUS0136,West,Desk,Furniture,1,8550.0,6200,Paid
+ORD00045,2026-07-07,,East,Headphones,Electronics,5,3200,1900,Paid
+ORD00318,2026-05-23,CUS0107,West,Desk,Furniture,1,9000,6200,Paid
+ORD00197,2026-03-27,CUS0302,West,Notebook,Stationery,many,120,55,Paid
+ORD00120,2026-05-21,CUS0353,  west ,USB Hub,Accessories,2,bad-price,620,Paid
+ORD00259,2026-01-15,CUS0071,West,Chair,Furniture,5,5525.0,4300,Paid
+ORD00052,2026-09-08,CUS0228,East,USB Hub,Accessories,1,1125.0,620,Cancelled
+ORD00281,2026-07-23,CUS0285,West,Headphones,Electronics,3,3200,1900,Paid
+ORD00224,2026-03-05,,Central,Headphones,Electronics,6,2720.0,1900,Paid
+ORD00574,2026-07-20,CUS0029,  east ,USB Hub,Accessories,5,1062.5,620,Paid
+ORD00265,2026-05-13,CUS0097,East,Desk,Furniture,2,9000,6200,unknown-status
+ORD00199,not-a-date,CUS0318,North,USB Hub,Accessories,6,1125.0,620,Paid
+ORD00306,2026-07-13,CUS0123,South,Monitor,Electronics,7,14000,9800,Paid
+ORD00143,2026-01-01,CUS0043,South,Mouse,Accessories,8,bad-price,400,Paid
+ORD00550,2026-02-22,CUS0254,  central ,Desk,Furniture,many,9000,6200,Paid
+ORD00366,2026-04-12,,West,Pen Pack,Stationery,2,76.5,32,Returned
+ORD00343,2026-08-05,CUS0355,Central,Desk,Furniture,-2,8550.0,6200,Paid
+ORD00249,2026-04-01,CUS0079,South,Notebook,Stationery,4,120,55,Cancelled
+ORD00608,2026-05-24,CUS0336,Central,Chair,Furniture,7,6175.0,4300,Paid
+ORD00604,2026-03-30,CUS0266,  north ,USB Hub,Accessories,3,1187.5,620,Paid
+ORD00585,2026-09-19,CUS0019,East,Mouse,Accessories,5,850,400,Paid
+ORD00403,2026-09-10,CUS0169,West,Keyboard,Accessories,3,1440.0,800,Paid
+ORD00001,2026-04-13,,South,Mouse,Accessories,8,bad-price,400,Paid
+ORD00293,2026-05-29,CUS0163,East,Mouse,Accessories,2,850,400,Paid
+ORD00615,not-a-date,CUS0320,  south ,Laptop,Electronics,1,55000,42000,Paid
+ORD00368,2026-07-11,CUS0228,West,Pen Pack,Stationery,many,90,32,Returned
+ORD00071,2026-06-26,CUS0034,Central,USB Hub,Accessories,3,1250,620,Paid
+ORD00474,2026-03-24,CUS0196,North,Laptop,Electronics,1,49500.0,42000,unknown-status
+ORD00102,2026-01-12,CUS0283,West,Headphones,Electronics,8,3200,1900,Returned
+ORD00320,2026-08-19,,  north ,Keyboard,Accessories,2,1360.0,800,Paid
+ORD00397,2026-07-12,CUS0336,South,Headphones,Electronics,4,2720.0,1900,Paid
+ORD00209,2026-02-07,CUS0257,East,Chair,Furniture,3,bad-price,4300,Paid
+ORD00106,2026-08-06,CUS0044,West,Chair,Furniture,8,6500,4300,Cancelled
+ORD00188,2026-05-08,CUS0354,North,Chair,Furniture,7,6500,4300,Paid
+ORD00277,2026-02-22,CUS0235,  north ,Monitor,Electronics,3,14000,9800,Paid
+ORD00130,2026-08-13,CUS0337,Central,Laptop,Electronics,-2,55000,42000,Paid
+ORD00577,2026-03-25,,South,Pen Pack,Stationery,many,90,32,Paid
+ORD00242,not-a-date,CUS0345,South,Monitor,Electronics,3,13300.0,9800,Paid
+ORD00606,2026-06-09,CUS0154,Central,Pen Pack,Stationery,4,85.5,32,Paid
+ORD00516,2026-02-25,CUS0091,  north ,USB Hub,Accessories,4,1062.5,620,Paid
+ORD00134,2026-01-31,CUS0294,North,Notebook,Stationery,6,bad-price,55,Paid
+ORD00569,2026-09-23,CUS0062,North,Notebook,Stationery,5,102.0,55,Paid
+ORD00228,2026-09-03,CUS0323,Central,Monitor,Electronics,2,14000,9800,Paid
+ORD00567,2026-07-23,,West,Monitor,Electronics,8,11900.0,9800,Paid
+ORD00261,2026-09-04,CUS0025,  west ,Desk,Furniture,4,8550.0,6200,unknown-status
+ORD00521,2026-04-16,CUS0062,Central,Headphones,Electronics,8,3040.0,1900,Paid
+ORD00193,2026-01-25,CUS0231,Central,Pen Pack,Stationery,5,90,32,Paid
+ORD00370,2026-03-31,CUS0143,West,Headphones,Electronics,many,2880.0,1900,Pending
+ORD00132,2026-04-02,CUS0340,Central,Monitor,Electronics,8,11900.0,9800,Paid
+ORD00406,2026-08-31,CUS0289,  east ,Chair,Furniture,4,bad-price,4300,Paid
+ORD00144,not-a-date,,North,Chair,Furniture,8,6500,4300,Pending
+ORD00037,2026-08-07,CUS0292,East,Chair,Furniture,2,5525.0,4300,Paid
+ORD00283,2026-03-09,CUS0047,Central,Laptop,Electronics,1,46750.0,42000,Cancelled
+ORD00365,2026-06-30,CUS0158,East,Headphones,Electronics,6,2880.0,1900,Cancelled
+ORD00278,2026-01-25,CUS0224,  west ,Headphones,Electronics,-2,2720.0,1900,Paid
+ORD00559,2026-06-10,CUS0313,South,Keyboard,Accessories,8,1520.0,800,Paid
+ORD00563,2026-08-31,CUS0151,South,USB Hub,Accessories,2,1062.5,620,Paid
+ORD00197,2026-03-27,,West,Pen Pack,Stationery,4,76.5,32,Paid
+ORD00201,2026-03-10,CUS0057,South,Mouse,Accessories,many,bad-price,400,Cancelled
+ORD00513,2026-09-26,CUS0142,  south ,Chair,Furniture,4,6500,4300,Pending
+ORD00300,2026-08-13,CUS0302,South,Keyboard,Accessories,3,1600,800,Pending
+ORD00368,2026-07-11,CUS0228,West,Laptop,Electronics,7,49500.0,42000,unknown-status
+ORD00049,2026-01-12,CUS0288,West,USB Hub,Accessories,3,1250,620,Paid
+ORD00507,not-a-date,CUS0295,West,Monitor,Electronics,2,11900.0,9800,Paid
+ORD00078,2026-01-01,,  west ,Headphones,Electronics,1,3200,1900,Paid
+ORD00077,2026-03-26,CUS0245,Central,Monitor,Electronics,2,14000,9800,Paid
+ORD00543,2026-07-20,CUS0163,Central,Desk,Furniture,1,9000,6200,Paid
+ORD00103,2026-06-22,CUS0309,South,Headphones,Electronics,6,bad-price,1900,Pending
+ORD00301,2026-05-29,CUS0353,Central,Monitor,Electronics,2,14000,9800,Paid
+ORD00219,2026-05-09,CUS0058,  west ,Monitor,Electronics,many,13300.0,9800,Paid
+ORD00305,2026-07-28,CUS0150,West,Mouse,Accessories,3,807.5,400,Paid
+ORD00639,2026-08-27,,West,Keyboard,Accessories,6,1440.0,800,Paid
+ORD00325,2026-07-06,CUS0012,East,Pen Pack,Stationery,7,90,32,Paid
+ORD00430,2026-02-03,CUS0098,North,Mouse,Accessories,-2,765.0,400,Paid
+ORD00448,2026-01-10,CUS0129,  central ,Headphones,Electronics,4,3040.0,1900,Returned
+ORD00061,2026-08-02,CUS0343,Central,USB Hub,Accessories,7,1062.5,620,Cancelled
+ORD00205,not-a-date,CUS0120,South,USB Hub,Accessories,7,bad-price,620,Paid
+ORD00231,2026-06-07,CUS0061,North,Chair,Furniture,7,6500,4300,Paid
+ORD00325,2026-07-06,,East,Laptop,Electronics,4,49500.0,42000,unknown-status
+ORD00223,2026-01-14,CUS0008,  east ,Mouse,Accessories,2,722.5,400,Paid
+ORD00069,2026-08-06,CUS0048,South,Notebook,Stationery,many,120,55,Pending
+ORD00088,2026-06-01,CUS0141,North,Monitor,Electronics,5,11900.0,9800,Paid
+ORD00398,2026-05-12,CUS0065,South,Laptop,Electronics,8,49500.0,42000,Pending
+ORD00113,2026-06-28,CUS0289,North,Keyboard,Accessories,3,1440.0,800,Paid
+ORD00266,2026-01-04,CUS0156,  central ,Notebook,Stationery,5,120,55,Cancelled
+ORD00419,2026-10-08,,Central,Notebook,Stationery,7,bad-price,55,Paid
+ORD00207,2026-01-05,CUS0166,Central,Notebook,Stationery,3,102.0,55,Cancelled
+ORD00622,2026-05-24,CUS0252,North,Monitor,Electronics,5,14000,9800,Paid
+ORD00598,2026-10-04,CUS0059,South,Desk,Furniture,5,9000,6200,Paid
+ORD00075,not-a-date,CUS0206,  east ,Notebook,Stationery,2,120,55,Paid
+ORD00518,2026-04-02,CUS0223,Central,Keyboard,Accessories,4,1600,800,Paid
+ORD00189,2026-04-18,CUS0198,Central,USB Hub,Accessories,many,1250,620,Paid
+ORD00083,2026-09-03,,North,Mouse,Accessories,-2,850,400,Paid
+ORD00243,2026-02-17,CUS0235,East,Desk,Furniture,7,8100.0,6200,Cancelled
+ORD00515,2026-04-05,CUS0051,  north ,Notebook,Stationery,3,bad-price,55,Paid
+ORD00407,2026-06-26,CUS0165,South,Desk,Furniture,6,8550.0,6200,unknown-status
+ORD00336,2026-03-22,CUS0233,South,Monitor,Electronics,7,14000,9800,Pending
+ORD00405,2026-09-05,CUS0267,West,Laptop,Electronics,1,55000,42000,Paid
+ORD00582,2026-08-16,CUS0109,Central,Notebook,Stationery,4,120,55,Paid
+ORD00291,2026-04-20,,  west ,Desk,Furniture,7,9000,6200,Pending
+ORD00600,2026-03-13,CUS0312,East,Headphones,Electronics,4,2720.0,1900,Paid
+ORD00385,2026-09-29,CUS0130,East,USB Hub,Accessories,4,1250,620,Paid
+ORD00578,not-a-date,CUS0271,Central,Desk,Furniture,many,8100.0,6200,Paid
+ORD00207,2026-01-05,CUS0166,Central,Headphones,Electronics,4,bad-price,1900,Cancelled
+ORD00135,2026-07-02,CUS0289,  north ,Laptop,Electronics,1,49500.0,42000,Cancelled
+ORD00489,2026-07-30,CUS0311,West,Headphones,Electronics,7,2880.0,1900,Pending
+ORD00369,2026-09-10,,East,USB Hub,Accessories,7,1062.5,620,Paid
+ORD00500,2026-09-11,CUS0275,South,Laptop,Electronics,1,52250.0,42000,Paid
+ORD00352,2026-06-08,CUS0182,West,Headphones,Electronics,4,2880.0,1900,Paid
+ORD00028,2026-05-05,CUS0034,  central ,Desk,Furniture,4,8100.0,6200,Paid
+ORD00650,2026-09-19,CUS0266,West,Pen Pack,Stationery,3,90,32,Paid
+ORD00600,2026-03-13,CUS0312,East,Laptop,Electronics,-2,52250.0,42000,Paid
+ORD00427,2026-10-08,CUS0101,North,Mouse,Accessories,8,bad-price,400,unknown-status
+ORD00008,2026-09-29,,South,Keyboard,Accessories,many,1600,800,Pending
+ORD00280,2026-02-17,CUS0296,  north ,Mouse,Accessories,5,765.0,400,Paid
+ORD00471,not-a-date,CUS0044,North,Pen Pack,Stationery,5,90,32,Cancelled
+ORD00636,2026-06-28,CUS0015,West,Pen Pack,Stationery,3,90,32,Paid
+ORD00252,2026-02-05,CUS0237,West,Keyboard,Accessories,1,1600,800,Pending
+ORD00607,2026-03-07,CUS0343,North,Chair,Furniture,7,6500,4300,Paid
+ORD00025,2026-03-26,CUS0284,  north ,Laptop,Electronics,7,55000,42000,Paid
+ORD00175,2026-03-28,,West,Laptop,Electronics,5,55000,42000,Paid
+ORD00612,2026-04-08,CUS0140,West,Notebook,Stationery,1,bad-price,55,Pending
+ORD00211,2026-08-26,CUS0146,South,Headphones,Electronics,8,3040.0,1900,Paid
+ORD00064,2026-02-22,CUS0023,East,Desk,Furniture,8,9000,6200,Paid
+ORD00383,2026-08-29,CUS0262,  north ,Keyboard,Accessories,many,1600,800,Paid
+ORD00381,2026-05-21,CUS0137,North,Keyboard,Accessories,2,1520.0,800,Paid
+ORD00190,2026-08-10,CUS0255,North,Keyboard,Accessories,8,1440.0,800,Paid
+ORD00433,2026-04-01,,West,Desk,Furniture,6,9000,6200,Paid
+ORD00426,not-a-date,CUS0074,Central,Pen Pack,Stationery,2,90,32,Pending
+ORD00615,2026-08-16,CUS0320,  south ,Pen Pack,Stationery,5,90,32,unknown-status
+ORD00323,2026-01-31,CUS0189,North,Headphones,Electronics,-2,bad-price,1900,Paid
+ORD00248,2026-03-04,CUS0136,West,Notebook,Stationery,5,108.0,55,Paid
+ORD00611,2026-01-18,CUS0016,Central,USB Hub,Accessories,7,1250,620,Paid
+ORD00326,2026-02-16,CUS0166,West,Pen Pack,Stationery,7,90,32,Pending
+ORD00550,2026-02-22,,  central ,Monitor,Electronics,6,14000,9800,Paid
+ORD00625,2026-08-04,CUS0116,North,Notebook,Stationery,many,108.0,55,Paid
+ORD00269,2026-08-20,CUS0143,West,Laptop,Electronics,4,46750.0,42000,Paid
+ORD00412,2026-04-06,CUS0010,West,USB Hub,Accessories,7,1250,620,Paid
+ORD00131,2026-02-15,CUS0257,North,Pen Pack,Stationery,5,90,32,Paid
+ORD00613,2026-04-28,CUS0307,East,Notebook,Stationery,2,120,55,Paid
+ORD00624,2026-02-08,CUS0271,North,Laptop,Electronics,1,55000,42000,unknown-status

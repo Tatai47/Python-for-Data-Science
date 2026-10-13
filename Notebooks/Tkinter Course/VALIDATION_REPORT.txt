@@ -1,0 +1,6 @@
+Course chapters: 40
+Chapter notebooks: 40
+Master notebook cells: 534
+Editorial page estimate: 305
+Notebook/source validation findings: 0
+No JSON or Python syntax errors detected in notebook code cells and starter app.
