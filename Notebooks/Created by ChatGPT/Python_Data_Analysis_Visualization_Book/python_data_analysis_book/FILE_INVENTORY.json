@@ -1,0 +1,552 @@
+[
+  {
+    "path": "BOOK_OUTLINE.md",
+    "bytes": 86830,
+    "sha256": "4120e20a24216b62c62e9c32e0eeba7d15bd1685ff30405922ebebb26342e4f4"
+  },
+  {
+    "path": "Chapter_01_python_foundations_for_data_work/CHAPTER_OUTLINE.md",
+    "bytes": 4923,
+    "sha256": "4f11c9fc4c023eda9960c77978ff11336bca79951602fb23da51a940a1ab675c"
+  },
+  {
+    "path": "Chapter_01_python_foundations_for_data_work/Chapter_01_Concepts_and_Theory.ipynb",
+    "bytes": 9481,
+    "sha256": "acaff958cb4d2bdc679004960038f577575aa4a39e6d822de833aea7e0d16bdf"
+  },
+  {
+    "path": "Chapter_01_python_foundations_for_data_work/Chapter_01_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5208,
+    "sha256": "5a74855cbcb52a7a3777128559a7508a7bca43bd120a675a8a6bf1a783ca5a54"
+  },
+  {
+    "path": "Chapter_01_python_foundations_for_data_work/Chapter_01_Step_by_Step_Tutorial.ipynb",
+    "bytes": 5583,
+    "sha256": "5eeb56c577f678c4252c89f432f7e367417bf35b569d2dbe101a366e231882cb"
+  },
+  {
+    "path": "Chapter_02_jupyter_notebook_and_reproducible_workflows/CHAPTER_OUTLINE.md",
+    "bytes": 4390,
+    "sha256": "8dbe905e148a82beb5ed985221995e71e04eb30d39095f522d77efd25480bd3b"
+  },
+  {
+    "path": "Chapter_02_jupyter_notebook_and_reproducible_workflows/Chapter_02_Concepts_and_Theory.ipynb",
+    "bytes": 9789,
+    "sha256": "17e9ddcc44be723de8308b918f0ffbe4296380e3bde6b03dc0d728ce52eb25ae"
+  },
+  {
+    "path": "Chapter_02_jupyter_notebook_and_reproducible_workflows/Chapter_02_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5243,
+    "sha256": "082d71199550d695526457b0a397fa0fbed68630f7f22d25ac2853ae36bc56fc"
+  },
+  {
+    "path": "Chapter_02_jupyter_notebook_and_reproducible_workflows/Chapter_02_Step_by_Step_Tutorial.ipynb",
+    "bytes": 7916,
+    "sha256": "304388c46f10c833ff6662c23bb39c59b0dd2338a9a9677643c09b5f4243b2e9"
+  },
+  {
+    "path": "Chapter_03_csv_json_and_excel_data_handling/CHAPTER_OUTLINE.md",
+    "bytes": 4803,
+    "sha256": "8aca4a78d51a3a8f8c4f8cc53c9237b3a5a0b5147af9afbb5af0c5cc07584960"
+  },
+  {
+    "path": "Chapter_03_csv_json_and_excel_data_handling/Chapter_03_Concepts_and_Theory.ipynb",
+    "bytes": 11306,
+    "sha256": "81ee89aa19e0270599fc272a093383f7e727bbdec13fea99e2b211ad5dc9c366"
+  },
+  {
+    "path": "Chapter_03_csv_json_and_excel_data_handling/Chapter_03_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5795,
+    "sha256": "ca2d57a902103e782a9eb05481f0e039259bd136f2fc657e26cd50ed13f068dc"
+  },
+  {
+    "path": "Chapter_03_csv_json_and_excel_data_handling/Chapter_03_Step_by_Step_Tutorial.ipynb",
+    "bytes": 6558,
+    "sha256": "220fc50c4f88202252fe3e056b155745c58423494757a125ba01e26790a76273"
+  },
+  {
+    "path": "Chapter_04_apis_web_data_and_schema_validation/CHAPTER_OUTLINE.md",
+    "bytes": 4798,
+    "sha256": "6e0bc4e444b82fff580442fdab45c72381e20f9b20ba8e18cc70cb1adb0aa3cd"
+  },
+  {
+    "path": "Chapter_04_apis_web_data_and_schema_validation/Chapter_04_Concepts_and_Theory.ipynb",
+    "bytes": 11023,
+    "sha256": "622ec699a55448e4f460a04c63f97c3f554581654aba8b7922f21c0c4ae491c5"
+  },
+  {
+    "path": "Chapter_04_apis_web_data_and_schema_validation/Chapter_04_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 6719,
+    "sha256": "88ad06483f245beefb49efc60fd34a784e53c4217bf6f68c32b8085002dc58f2"
+  },
+  {
+    "path": "Chapter_04_apis_web_data_and_schema_validation/Chapter_04_Step_by_Step_Tutorial.ipynb",
+    "bytes": 7490,
+    "sha256": "7255768c52b1c69ada7fe271982f192379a8f0e5a0d7fc843bfe231be5325ef3"
+  },
+  {
+    "path": "Chapter_05_numpy_numerical_computing/CHAPTER_OUTLINE.md",
+    "bytes": 5207,
+    "sha256": "e5113266f2776d3d6848e6b3c3ebe83bf2c9a4aeff66accf0fe447f18291094f"
+  },
+  {
+    "path": "Chapter_05_numpy_numerical_computing/Chapter_05_Concepts_and_Theory.ipynb",
+    "bytes": 9848,
+    "sha256": "005f1d97901833a445fff3ffdcce1867778741e12c0aafa8e0f4df1dfd79c81b"
+  },
+  {
+    "path": "Chapter_05_numpy_numerical_computing/Chapter_05_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5035,
+    "sha256": "89b89b3aa76943bd3b600d643c32354f8c5876278bd0c73c2a02fad7416e64ef"
+  },
+  {
+    "path": "Chapter_05_numpy_numerical_computing/Chapter_05_Step_by_Step_Tutorial.ipynb",
+    "bytes": 5391,
+    "sha256": "6098d50aab238b82f499c851d04ce626ecb6ece00bb2c5c65361033238fc36cc"
+  },
+  {
+    "path": "Chapter_06_pandas_i_series_dataframes_and_inspection/CHAPTER_OUTLINE.md",
+    "bytes": 4549,
+    "sha256": "6682b3aa687f71ebeba18ba6871cf0b55d917d708c66878c6b0c8f4502a7c05a"
+  },
+  {
+    "path": "Chapter_06_pandas_i_series_dataframes_and_inspection/Chapter_06_Concepts_and_Theory.ipynb",
+    "bytes": 13417,
+    "sha256": "2be5a940aaf23d906e8b85e1edcb30f4fd42ca248484409085df7cd3a51c4031"
+  },
+  {
+    "path": "Chapter_06_pandas_i_series_dataframes_and_inspection/Chapter_06_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5604,
+    "sha256": "a4a49eb6f686f97cb87216bffb63e0f7e71859aa89b23d13451fd974d6b22159"
+  },
+  {
+    "path": "Chapter_06_pandas_i_series_dataframes_and_inspection/Chapter_06_Step_by_Step_Tutorial.ipynb",
+    "bytes": 6861,
+    "sha256": "a21ea335a1e5059906d37e82c721b2c5a17ade04b716313bf608275bdbfedaef"
+  },
+  {
+    "path": "Chapter_07_pandas_ii_cleaning_transformation_and_aggregation/CHAPTER_OUTLINE.md",
+    "bytes": 5201,
+    "sha256": "9f8bd8aa1e0f3f47c87c4b9ad3dfec67c871546a8e9eb28114f4805b5ed61b0a"
+  },
+  {
+    "path": "Chapter_07_pandas_ii_cleaning_transformation_and_aggregation/Chapter_07_Concepts_and_Theory.ipynb",
+    "bytes": 12552,
+    "sha256": "67340d71b7c96265d2eb66e7d930fa41b7cb162f3b48dd533f97e606dc25eaf5"
+  },
+  {
+    "path": "Chapter_07_pandas_ii_cleaning_transformation_and_aggregation/Chapter_07_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5923,
+    "sha256": "d7acc17d085962747ec069e53ac4046efac943613a47e7faa7ff0827bd0cf656"
+  },
+  {
+    "path": "Chapter_07_pandas_ii_cleaning_transformation_and_aggregation/Chapter_07_Step_by_Step_Tutorial.ipynb",
+    "bytes": 6564,
+    "sha256": "f0bbf79e8d0d70872e9b9af49dfe2b85ecfe9dfb4edbec57c652cbe399920f0f"
+  },
+  {
+    "path": "Chapter_08_polars_and_apache_arrow_for_efficient_data_processing/CHAPTER_OUTLINE.md",
+    "bytes": 3885,
+    "sha256": "ea55d0c428d6fc9ec28d58b9e43fd9608af68d957389a349974e459d5097fa43"
+  },
+  {
+    "path": "Chapter_08_polars_and_apache_arrow_for_efficient_data_processing/Chapter_08_Concepts_and_Theory.ipynb",
+    "bytes": 8896,
+    "sha256": "9512a05d22faaffbce4c80e6574431483e54353dd61268385c584cfa23966c6d"
+  },
+  {
+    "path": "Chapter_08_polars_and_apache_arrow_for_efficient_data_processing/Chapter_08_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 4972,
+    "sha256": "ecffe1beb9a3d6f1ff6cc034354bca9ac6bbfe7fd6e080c494558c7e3b9fbf04"
+  },
+  {
+    "path": "Chapter_08_polars_and_apache_arrow_for_efficient_data_processing/Chapter_08_Step_by_Step_Tutorial.ipynb",
+    "bytes": 5842,
+    "sha256": "4774166e9bb03f28d3c87f09b0d5139e9b8773a50162e244729117412b44d3b1"
+  },
+  {
+    "path": "Chapter_09_sql_fundamentals_and_mysql_connectivity/CHAPTER_OUTLINE.md",
+    "bytes": 4682,
+    "sha256": "428de701be3dbde78ee5d51e81ce54f821a8794a7c34e02abaea99949a7461c2"
+  },
+  {
+    "path": "Chapter_09_sql_fundamentals_and_mysql_connectivity/Chapter_09_Concepts_and_Theory.ipynb",
+    "bytes": 10268,
+    "sha256": "18de994727b443c2a0d8a4d28517caabe1df8b8da21d2475fa18f1271bf99d29"
+  },
+  {
+    "path": "Chapter_09_sql_fundamentals_and_mysql_connectivity/Chapter_09_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5781,
+    "sha256": "b7213afed11e9c127451a4f4bb5690b345e8dbe43c4beaaf73d7e49299b1220d"
+  },
+  {
+    "path": "Chapter_09_sql_fundamentals_and_mysql_connectivity/Chapter_09_Step_by_Step_Tutorial.ipynb",
+    "bytes": 5547,
+    "sha256": "0bb6061685b6a214c0174707632bd50c11d3d1e01b0e66c29e4fb9e501f2b916"
+  },
+  {
+    "path": "Chapter_10_sqlalchemy_and_pandas_database_workflows/CHAPTER_OUTLINE.md",
+    "bytes": 4641,
+    "sha256": "b6b873e9f9428bebcfe5c68ceeeb4044b86a7951d0eec3e1503d3cd697ce84ba"
+  },
+  {
+    "path": "Chapter_10_sqlalchemy_and_pandas_database_workflows/Chapter_10_Concepts_and_Theory.ipynb",
+    "bytes": 9724,
+    "sha256": "e265e407d67eef192d08d1b80628d328068ccfab8c7448e36b577203212846a9"
+  },
+  {
+    "path": "Chapter_10_sqlalchemy_and_pandas_database_workflows/Chapter_10_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 5575,
+    "sha256": "9d21a1b49b41badb36559075590d29810e5a7064f28a450432f8d487eabd6bcb"
+  },
+  {
+    "path": "Chapter_10_sqlalchemy_and_pandas_database_workflows/Chapter_10_Step_by_Step_Tutorial.ipynb",
+    "bytes": 5572,
+    "sha256": "a5154db8d2b9a55a2651180297cb75ec990105884d1cf600fd1a44e317209fc6"
+  },
+  {
+    "path": "Chapter_11_matplotlib_foundational_data_visualization/CHAPTER_OUTLINE.md",
+    "bytes": 4081,
+    "sha256": "947f41f109b87dd617fe43c53b2a0de06f837b42950b9ed909db083251f8127d"
+  },
+  {
+    "path": "Chapter_11_matplotlib_foundational_data_visualization/Chapter_11_Concepts_and_Theory.ipynb",
+    "bytes": 218859,
+    "sha256": "9101f4fb0b808e3c3b4a1fadd82ba4fd3acd474cc19eb886c3c2ea8d9e1a044e"
+  },
+  {
+    "path": "Chapter_11_matplotlib_foundational_data_visualization/Chapter_11_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 112378,
+    "sha256": "32d8c580589ee10c9e5a53a4f5d655a1033985221013d5f5354185d8134e13af"
+  },
+  {
+    "path": "Chapter_11_matplotlib_foundational_data_visualization/Chapter_11_Step_by_Step_Tutorial.ipynb",
+    "bytes": 132487,
+    "sha256": "0b291fa41ce3ab1af4e37ef96aae3afee1b79445aa6023249b49e77204faa20b"
+  },
+  {
+    "path": "Chapter_12_seaborn_statistical_data_visualization/CHAPTER_OUTLINE.md",
+    "bytes": 4290,
+    "sha256": "5f28205cab6aa1f57f8a90095eef265598b317beb8cd1b352311c8bb216b16f8"
+  },
+  {
+    "path": "Chapter_12_seaborn_statistical_data_visualization/Chapter_12_Concepts_and_Theory.ipynb",
+    "bytes": 261705,
+    "sha256": "58635022c66e5463716495477b96b08909deaf83dd3bc65c7555cf91d44ee06c"
+  },
+  {
+    "path": "Chapter_12_seaborn_statistical_data_visualization/Chapter_12_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 212978,
+    "sha256": "c9d1dd5bb9e7b6b4b5e0299a1cb9bc2f789f6f6305fb35302c97c5859dcb50b6"
+  },
+  {
+    "path": "Chapter_12_seaborn_statistical_data_visualization/Chapter_12_Step_by_Step_Tutorial.ipynb",
+    "bytes": 147444,
+    "sha256": "092d67b7e9cc25dd663a7c385dd5fffbffd5c6a872f87f25f6eb4c78ebc4079e"
+  },
+  {
+    "path": "Chapter_13_interactive_visualization_with_plotly_bokeh_and_altair/CHAPTER_OUTLINE.md",
+    "bytes": 4470,
+    "sha256": "f1b19cebf8df40d374b648ca125286969dc017ce991072720b9a0865844fdc53"
+  },
+  {
+    "path": "Chapter_13_interactive_visualization_with_plotly_bokeh_and_altair/Chapter_13_Concepts_and_Theory.ipynb",
+    "bytes": 42378,
+    "sha256": "effc9ed5df2bab2f3ef23080c68f31e0246e1f108be87a4ba8d46a3a6c40e3b7"
+  },
+  {
+    "path": "Chapter_13_interactive_visualization_with_plotly_bokeh_and_altair/Chapter_13_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 14881,
+    "sha256": "07fa07428ee5896cd28c797702e36352803582682ebaa6ce63af9005de79ff55"
+  },
+  {
+    "path": "Chapter_13_interactive_visualization_with_plotly_bokeh_and_altair/Chapter_13_Step_by_Step_Tutorial.ipynb",
+    "bytes": 21684,
+    "sha256": "c6710144702278e905254e2532408603654699f8b6c7f737a2a0af86893cf058"
+  },
+  {
+    "path": "Chapter_14_scientific_statistics_with_scipy/CHAPTER_OUTLINE.md",
+    "bytes": 5774,
+    "sha256": "435252dac1039c0d182e2c8337e75024f3ff099843677fd95eece21484ab023e"
+  },
+  {
+    "path": "Chapter_14_scientific_statistics_with_scipy/Chapter_14_Concepts_and_Theory.ipynb",
+    "bytes": 11472,
+    "sha256": "28c7a4829a12704b1ba66288c8be816dbac30c044e02dd0683c3afe21f8a12e9"
+  },
+  {
+    "path": "Chapter_14_scientific_statistics_with_scipy/Chapter_14_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 6297,
+    "sha256": "772c60d3bd04d4431573251b0003600a320ccd0efec2ed54dba85e575f1eb30f"
+  },
+  {
+    "path": "Chapter_14_scientific_statistics_with_scipy/Chapter_14_Step_by_Step_Tutorial.ipynb",
+    "bytes": 6205,
+    "sha256": "bb9bab0316eea26ca8417fa0c4a1fccbd13ca77b29f2898901c22ff66fd7d277"
+  },
+  {
+    "path": "Chapter_15_statistical_modeling_with_statsmodels/CHAPTER_OUTLINE.md",
+    "bytes": 5619,
+    "sha256": "cfa54dc7478e8aa9ad67da6fae61b53723283b8f9747de8f9417fbeb556fe7cd"
+  },
+  {
+    "path": "Chapter_15_statistical_modeling_with_statsmodels/Chapter_15_Concepts_and_Theory.ipynb",
+    "bytes": 106126,
+    "sha256": "01bafdcf0255a4a7f805cd91b993979ee98c025ace2a28f1f2ed66a993b7e685"
+  },
+  {
+    "path": "Chapter_15_statistical_modeling_with_statsmodels/Chapter_15_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 78754,
+    "sha256": "1eed38211f9165b4f7cce78141baec9c98d662b69a632c673b65290a9845a3d5"
+  },
+  {
+    "path": "Chapter_15_statistical_modeling_with_statsmodels/Chapter_15_Step_by_Step_Tutorial.ipynb",
+    "bytes": 76898,
+    "sha256": "9c1cde50855cb2324c1222330351d9f3648bf8ec9db7d2dd3302cfb8352fd36c"
+  },
+  {
+    "path": "Chapter_16_exploratory_data_analysis_and_data_quality/CHAPTER_OUTLINE.md",
+    "bytes": 5269,
+    "sha256": "301ee7297d23f43068733e15ab2a3e6d5e42bd21bedca500c4bdd2575a7f55ba"
+  },
+  {
+    "path": "Chapter_16_exploratory_data_analysis_and_data_quality/Chapter_16_Concepts_and_Theory.ipynb",
+    "bytes": 64547,
+    "sha256": "f901fc17d514297b134a5dfea96ea929c7cc7b47f59d68ad191f6ebfc125f612"
+  },
+  {
+    "path": "Chapter_16_exploratory_data_analysis_and_data_quality/Chapter_16_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 6354,
+    "sha256": "a03af5334370341803b5c8919639bee923bae1333c81d5fcba3ae3e7d7d942f5"
+  },
+  {
+    "path": "Chapter_16_exploratory_data_analysis_and_data_quality/Chapter_16_Step_by_Step_Tutorial.ipynb",
+    "bytes": 6825,
+    "sha256": "0d96901b382ea3ae97a41d370cd932a2cc9819d5cbc00cf14f962225c7466003"
+  },
+  {
+    "path": "Chapter_17_machine_learning_with_scikit_learn/CHAPTER_OUTLINE.md",
+    "bytes": 5541,
+    "sha256": "6a19cc876b346015c71ae19472ef324e5baffd11728d69bf4de208183a8e732c"
+  },
+  {
+    "path": "Chapter_17_machine_learning_with_scikit_learn/Chapter_17_Concepts_and_Theory.ipynb",
+    "bytes": 11985,
+    "sha256": "f4a51b0dd13eae63a6343b21800b74e60e2f65d0b7647591533f65f457174b11"
+  },
+  {
+    "path": "Chapter_17_machine_learning_with_scikit_learn/Chapter_17_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 6060,
+    "sha256": "d5174e37ff41baf3bc91fe2255e693ae75228df67eaa5fbecc36c0a44b575012"
+  },
+  {
+    "path": "Chapter_17_machine_learning_with_scikit_learn/Chapter_17_Step_by_Step_Tutorial.ipynb",
+    "bytes": 50225,
+    "sha256": "ad8627169852a5ef4ea66a673d1453ca0f8678ee0dbe47336de044849a985fd8"
+  },
+  {
+    "path": "Chapter_18_building_data_applications_with_streamlit/CHAPTER_OUTLINE.md",
+    "bytes": 5025,
+    "sha256": "a0a3d3f7b622eb201b497055ef85b1fbcdd90c859a51cc3f6ef43998445cd450"
+  },
+  {
+    "path": "Chapter_18_building_data_applications_with_streamlit/Chapter_18_Concepts_and_Theory.ipynb",
+    "bytes": 11959,
+    "sha256": "74b75130583fdc78d5ae941dc007a161777fe898254c1d715917dd435c8edf3a"
+  },
+  {
+    "path": "Chapter_18_building_data_applications_with_streamlit/Chapter_18_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 6360,
+    "sha256": "fbce1a555bddda3f4ec5c19fa5c2b8de3b0a0881d2ca00c04cb8b6e2c0769503"
+  },
+  {
+    "path": "Chapter_18_building_data_applications_with_streamlit/Chapter_18_Step_by_Step_Tutorial.ipynb",
+    "bytes": 6512,
+    "sha256": "fea5000d83930c0e6717db2938c2a42b3e8cfb3fa29dcf7dfdf8b8aabefafa78"
+  },
+  {
+    "path": "Chapter_18_building_data_applications_with_streamlit/app.py",
+    "bytes": 1330,
+    "sha256": "6451672efd49450c6f2774df0edbfebf6f29a5583a9e87268038fff7f21df8a6"
+  },
+  {
+    "path": "Chapter_19_end_to_end_data_analysis_capstone/CHAPTER_OUTLINE.md",
+    "bytes": 5697,
+    "sha256": "bf083d009a41dea3205aca0c42ea37684e2687e195ee3090bc8e8a1550044a48"
+  },
+  {
+    "path": "Chapter_19_end_to_end_data_analysis_capstone/Chapter_19_Concepts_and_Theory.ipynb",
+    "bytes": 5835,
+    "sha256": "75b7e2798c1354022784498a59ac600a34cd9c19cfc62029ab79146e7f279493"
+  },
+  {
+    "path": "Chapter_19_end_to_end_data_analysis_capstone/Chapter_19_Practical_Lab_and_Exercises.ipynb",
+    "bytes": 114073,
+    "sha256": "4d27b11745435ebf7bdb9ffdbd3d0163f8d14a9251cd62f46e76439cde5d60f6"
+  },
+  {
+    "path": "Chapter_19_end_to_end_data_analysis_capstone/Chapter_19_Step_by_Step_Tutorial.ipynb",
+    "bytes": 119390,
+    "sha256": "9d1b92ffe440e5b44258b660f7527d04f84bafae8b3be2fbf7a0d90b7e98af46"
+  },
+  {
+    "path": "PROJECT_ROADMAP.md",
+    "bytes": 1621,
+    "sha256": "2f8eacd0897c0956dc1cc016888a166b8a6f13b390b419811aef02e55b5e0556"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3276,
+    "sha256": "f60eb885201852c7e445003832e1481fa12114313863c60b2be2d5867388d3e8"
+  },
+  {
+    "path": "START_HERE.ipynb",
+    "bytes": 3912,
+    "sha256": "a40762e8be5ccf17437b6d9e92ff1ebb4125c3d267d19af5fabf0adcc48778cf"
+  },
+  {
+    "path": "VALIDATION_REPORT.md",
+    "bytes": 646,
+    "sha256": "d2cb735d01c2dfddaf224c7fa4cffdd251a4375cf7548700eae2f7cd17562bea"
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 1187,
+    "sha256": "cc97434e4fff3c0cc3ca366dd51d2134dcc8a48bef1ec4e555a183d232f11143"
+  },
+  {
+    "path": "data/customers.csv",
+    "bytes": 671,
+    "sha256": "a78500d369002a9e2a52e441ff9648f619eb3f9216778f23db839cc82fb2989a"
+  },
+  {
+    "path": "data/messy_sales.csv",
+    "bytes": 4874,
+    "sha256": "56eeeb46b7cadae4cb7bc0307715a65419b1114593f11a2874878207d1d11903"
+  },
+  {
+    "path": "data/orders.csv",
+    "bytes": 13210,
+    "sha256": "89975fe1193c536af77ff92e6e87b8273216e5a3060fdb5073658caca4a93df6"
+  },
+  {
+    "path": "data/sales.csv",
+    "bytes": 18404,
+    "sha256": "09b0d85e15a1be5fa1c6bb479a669a8f8460bd549f658114755b93eba782aa07"
+  },
+  {
+    "path": "data/sample_api_response.json",
+    "bytes": 272,
+    "sha256": "3c722af091a9e1a020593c5f29a72aef6fa5420dad1c5252793022053fee2aa2"
+  },
+  {
+    "path": "data/sample_page.html",
+    "bytes": 199,
+    "sha256": "f695f36056fa4cde1a4f32f7851f7e0f87aaaa0b76c49cb1ce198c49cd865b7f"
+  },
+  {
+    "path": "data/students.csv",
+    "bytes": 851,
+    "sha256": "cfb7b5a0d91c5e720047375d1426ee13d131ccc1c3e7ef4933876960d9b57cef"
+  },
+  {
+    "path": "data/weather.json",
+    "bytes": 534,
+    "sha256": "fe51a0aba6f63eeb84bec711f1c6df4231045fc4fd9f48ad67d29716e6893ef8"
+  },
+  {
+    "path": "manifest.json",
+    "bytes": 15073,
+    "sha256": "184c3dc25d4faad7aa84ddba9ad56fe68667288c257a9dc7d60df904bddb99a3"
+  },
+  {
+    "path": "requirements-core.txt",
+    "bytes": 161,
+    "sha256": "a77b9b92a4e9e60b90b1967cc588ad6075db838787caa4271c918969d863e1d8"
+  },
+  {
+    "path": "requirements-full.txt",
+    "bytes": 271,
+    "sha256": "9599ca63f66df632d0326f8d747b9954f57a9a29d639ae1d3e1592fc38d269d7"
+  },
+  {
+    "path": "sample_outputs/README.md",
+    "bytes": 281,
+    "sha256": "f38981840288d350ea93585dd1a62074891bec0a3648fb35889aeabdb0e64e80"
+  },
+  {
+    "path": "sample_outputs/capstone_clean_sales.csv",
+    "bytes": 31876,
+    "sha256": "412d22bda5c7173278fada74a13fb4e8bc6b189c7567526bb090cb10dffb7fcb"
+  },
+  {
+    "path": "sample_outputs/capstone_daily_metrics.csv",
+    "bytes": 8746,
+    "sha256": "3d72b9aeeae07bad3f393f333c8993c03c3832c1187e0c79d8ea32cd55ed41ed"
+  },
+  {
+    "path": "sample_outputs/capstone_segment_summary.csv",
+    "bytes": 541,
+    "sha256": "22d22f7f80f56e9eba07e3537c652357330fb986a4bfe6b1bd69f891824eec70"
+  },
+  {
+    "path": "sample_outputs/mini.csv",
+    "bytes": 31,
+    "sha256": "b17bd3f3cc88e9e4138792ce8f7d2a4880f4e7c610d2a144101a47b671b70ccb"
+  },
+  {
+    "path": "sample_outputs/note.txt",
+    "bytes": 21,
+    "sha256": "372a649914c72e0c155712139b0e0d670f778e0306ce451ca76248441ba14df9"
+  },
+  {
+    "path": "sample_outputs/profit_distribution.png",
+    "bytes": 27488,
+    "sha256": "e699f027afc18372492112afbac14a243393b73d40628f3370fbb41aa610e405"
+  },
+  {
+    "path": "sample_outputs/region_report.csv",
+    "bytes": 109,
+    "sha256": "befa2aba20462319433fff8b3f0b567f27c00307396cfd0ec6804c1731580600"
+  },
+  {
+    "path": "sample_outputs/region_report.json",
+    "bytes": 326,
+    "sha256": "1ffbfab62f15948d987a55d817c78cc77c1fa4c10406090413a5a167609ee99b"
+  },
+  {
+    "path": "sample_outputs/region_report.xlsx",
+    "bytes": 5764,
+    "sha256": "2ebfac9d03f1942e776d8b5336b33a5015862a4b19496206d016942e0dc7d36f"
+  },
+  {
+    "path": "sample_outputs/report.txt",
+    "bytes": 28,
+    "sha256": "fd87e644b956719b94d3c3624a5ecc0e3fb568fb1c9f2b3ac9e36e6d059e4218"
+  },
+  {
+    "path": "sample_outputs/sales_plot.png",
+    "bytes": 67040,
+    "sha256": "a42e4abee48d31fd739151fb528464b74db7a19588c1979b3d7fadd7a0132353"
+  },
+  {
+    "path": "sample_outputs/sales_plot.svg",
+    "bytes": 53230,
+    "sha256": "b6b678a1285b1e58c2b3eb6d1dedf3e68475a77e00bf0b1cee178e0f63a8f0d0"
+  },
+  {
+    "path": "sample_outputs/sales_snapshot.png",
+    "bytes": 117895,
+    "sha256": "1c9332ef2e264a33c1ef6ed06f0944c5e9ccbff080b6279cf8b1bfd70f87251d"
+  },
+  {
+    "path": "sample_outputs/sales_snapshot.svg",
+    "bytes": 65892,
+    "sha256": "32b2d16309f5cfd470152a46a0876f0ca376664b22d8472eb7a9f80ea98c9957"
+  },
+  {
+    "path": "sample_outputs/sample_report.xlsx",
+    "bytes": 7319,
+    "sha256": "0380f7611c2f9c003b049d6088c5d535bb4f23d6f03d0e835f24d14244774751"
+  }
+]

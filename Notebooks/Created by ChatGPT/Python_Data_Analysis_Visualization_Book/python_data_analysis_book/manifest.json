@@ -1,0 +1,354 @@
+{
+  "title": "Python Data Analysis and Visualization",
+  "level": "Beginner to Advanced",
+  "style": "Theory-heavy",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Python Foundations for Data Work",
+      "folder": "Chapter_01_python_foundations_for_data_work",
+      "notebooks": [
+        "Chapter_01_Concepts_and_Theory.ipynb",
+        "Chapter_01_Step_by_Step_Tutorial.ipynb",
+        "Chapter_01_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Distinguish names, objects, values, and types.",
+        "Choose appropriate built-in data structures.",
+        "Use control flow, comprehensions, and functions for data tasks.",
+        "Handle errors and organize reusable code."
+      ],
+      "prerequisites": "No previous programming experience; Python 3.10+ recommended."
+    },
+    {
+      "number": 2,
+      "title": "Jupyter Notebook and Reproducible Workflows",
+      "folder": "Chapter_02_jupyter_notebook_and_reproducible_workflows",
+      "notebooks": [
+        "Chapter_02_Concepts_and_Theory.ipynb",
+        "Chapter_02_Step_by_Step_Tutorial.ipynb",
+        "Chapter_02_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain kernels, cells, execution order, and notebook metadata.",
+        "Use Markdown, code cells, magic commands, and rich display.",
+        "Restart and run notebooks from a clean state.",
+        "Control randomness and document dependencies."
+      ],
+      "prerequisites": "Chapter 1 Python fundamentals; JupyterLab or Jupyter Notebook."
+    },
+    {
+      "number": 3,
+      "title": "CSV, JSON, and Excel Data Handling",
+      "folder": "Chapter_03_csv_json_and_excel_data_handling",
+      "notebooks": [
+        "Chapter_03_Concepts_and_Theory.ipynb",
+        "Chapter_03_Step_by_Step_Tutorial.ipynb",
+        "Chapter_03_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Read and write CSV with the standard library and Pandas.",
+        "Parse JSON objects and arrays and understand serialization options.",
+        "Import/export Excel workbooks with Pandas and OpenPyXL.",
+        "Handle encodings, missing values, and data types."
+      ],
+      "prerequisites": "Python file handling and basic DataFrame concepts."
+    },
+    {
+      "number": 4,
+      "title": "APIs, Web Data, and Schema Validation",
+      "folder": "Chapter_04_apis_web_data_and_schema_validation",
+      "notebooks": [
+        "Chapter_04_Concepts_and_Theory.ipynb",
+        "Chapter_04_Step_by_Step_Tutorial.ipynb",
+        "Chapter_04_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain URLs, methods, status codes, headers, query parameters, and timeouts.",
+        "Use Requests to retrieve and check API responses.",
+        "Parse HTML locally with BeautifulSoup.",
+        "Validate records with Pydantic and report malformed data."
+      ],
+      "prerequisites": "Dictionaries, JSON, exceptions, and basic DataFrames; live internet access is optional."
+    },
+    {
+      "number": 5,
+      "title": "NumPy: Numerical Computing",
+      "folder": "Chapter_05_numpy_numerical_computing",
+      "notebooks": [
+        "Chapter_05_Concepts_and_Theory.ipynb",
+        "Chapter_05_Step_by_Step_Tutorial.ipynb",
+        "Chapter_05_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain ndarray shape, axes, dtype, and memory layout.",
+        "Create, index, slice, reshape, and combine arrays.",
+        "Use broadcasting, vectorized expressions, reductions, and masks.",
+        "Handle missing numeric values and reproducible random sampling."
+      ],
+      "prerequisites": "Python lists, loops, functions, and arithmetic; install NumPy."
+    },
+    {
+      "number": 6,
+      "title": "Pandas I: Series, DataFrames, and Inspection",
+      "folder": "Chapter_06_pandas_i_series_dataframes_and_inspection",
+      "notebooks": [
+        "Chapter_06_Concepts_and_Theory.ipynb",
+        "Chapter_06_Step_by_Step_Tutorial.ipynb",
+        "Chapter_06_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain Series, DataFrame, index, columns, and alignment.",
+        "Read tabular data and inspect its structure.",
+        "Select rows and columns with loc and iloc.",
+        "Understand dtypes, missing values, and descriptive summaries."
+      ],
+      "prerequisites": "Python and NumPy basics; install Pandas."
+    },
+    {
+      "number": 7,
+      "title": "Pandas II: Cleaning, Transformation, and Aggregation",
+      "folder": "Chapter_07_pandas_ii_cleaning_transformation_and_aggregation",
+      "notebooks": [
+        "Chapter_07_Concepts_and_Theory.ipynb",
+        "Chapter_07_Step_by_Step_Tutorial.ipynb",
+        "Chapter_07_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Diagnose missing values and duplicates.",
+        "Use string, datetime, and categorical accessors.",
+        "Transform with vectorized operations, map, and apply.",
+        "Group, aggregate, merge, concatenate, pivot, and melt."
+      ],
+      "prerequisites": "Chapter 6 DataFrame selection, dtypes, and inspection."
+    },
+    {
+      "number": 8,
+      "title": "Polars and Apache Arrow for Efficient Data Processing",
+      "folder": "Chapter_08_polars_and_apache_arrow_for_efficient_data_processing",
+      "notebooks": [
+        "Chapter_08_Concepts_and_Theory.ipynb",
+        "Chapter_08_Step_by_Step_Tutorial.ipynb",
+        "Chapter_08_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain eager versus lazy execution and query plans.",
+        "Use Polars expressions to select, filter, add, and aggregate columns.",
+        "Read files lazily and collect results deliberately.",
+        "Understand Arrow tables and interoperability."
+      ],
+      "prerequisites": "Python, Pandas, SQL-style filtering/grouping; install `polars` and `pyarrow` for full examples."
+    },
+    {
+      "number": 9,
+      "title": "SQL Fundamentals and MySQL Connectivity",
+      "folder": "Chapter_09_sql_fundamentals_and_mysql_connectivity",
+      "notebooks": [
+        "Chapter_09_Concepts_and_Theory.ipynb",
+        "Chapter_09_Step_by_Step_Tutorial.ipynb",
+        "Chapter_09_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain tables, rows, primary keys, and foreign keys.",
+        "Write SELECT, WHERE, GROUP BY, HAVING, JOIN, and subqueries.",
+        "Connect with mysql-connector-python or PyMySQL.",
+        "Use parameterized statements, transactions, cursors, commits, and rollbacks."
+      ],
+      "prerequisites": "Basic tables and Python functions. MySQL server only needed for live-connection exercises; SQLite is used for local SQL drills."
+    },
+    {
+      "number": 10,
+      "title": "SQLAlchemy and Pandas Database Workflows",
+      "folder": "Chapter_10_sqlalchemy_and_pandas_database_workflows",
+      "notebooks": [
+        "Chapter_10_Concepts_and_Theory.ipynb",
+        "Chapter_10_Step_by_Step_Tutorial.ipynb",
+        "Chapter_10_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Distinguish Engine, Connection, Session, and ORM concepts.",
+        "Create database URLs and configure connection behavior.",
+        "Execute bound SQL with text().",
+        "Read and write DataFrames to relational databases safely."
+      ],
+      "prerequisites": "Chapter 9 SQL. Install SQLAlchemy; MySQL driver is optional for the SQLite demonstrations."
+    },
+    {
+      "number": 11,
+      "title": "Matplotlib: Foundational Data Visualization",
+      "folder": "Chapter_11_matplotlib_foundational_data_visualization",
+      "notebooks": [
+        "Chapter_11_Concepts_and_Theory.ipynb",
+        "Chapter_11_Step_by_Step_Tutorial.ipynb",
+        "Chapter_11_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Distinguish Figure and Axes objects.",
+        "Create line, bar, scatter, histogram, and box plots.",
+        "Control labels, scales, legends, grids, and layouts.",
+        "Export charts with readable dimensions and resolution."
+      ],
+      "prerequisites": "NumPy/Pandas basics; install Matplotlib."
+    },
+    {
+      "number": 12,
+      "title": "Seaborn: Statistical Data Visualization",
+      "folder": "Chapter_12_seaborn_statistical_data_visualization",
+      "notebooks": [
+        "Chapter_12_Concepts_and_Theory.ipynb",
+        "Chapter_12_Step_by_Step_Tutorial.ipynb",
+        "Chapter_12_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Understand long-form and wide-form data.",
+        "Use axes-level and figure-level plotting functions.",
+        "Create distribution, relational, categorical, and matrix plots.",
+        "Interpret hue, facets, estimators, and confidence intervals."
+      ],
+      "prerequisites": "Pandas DataFrames and basic Matplotlib; install Seaborn."
+    },
+    {
+      "number": 13,
+      "title": "Interactive Visualization with Plotly, Bokeh, and Altair",
+      "folder": "Chapter_13_interactive_visualization_with_plotly_bokeh_and_altair",
+      "notebooks": [
+        "Chapter_13_Concepts_and_Theory.ipynb",
+        "Chapter_13_Step_by_Step_Tutorial.ipynb",
+        "Chapter_13_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Build Plotly Express and Graph Objects charts.",
+        "Understand Bokeh figures, glyphs, sources, and tools.",
+        "Create declarative Altair charts and encodings.",
+        "Choose a library based on interaction, deployment, performance, and fit."
+      ],
+      "prerequisites": "Pandas, Matplotlib concepts, and chart grammar; full stack includes Plotly, Bokeh, and Altair."
+    },
+    {
+      "number": 14,
+      "title": "Scientific Statistics with SciPy",
+      "folder": "Chapter_14_scientific_statistics_with_scipy",
+      "notebooks": [
+        "Chapter_14_Concepts_and_Theory.ipynb",
+        "Chapter_14_Step_by_Step_Tutorial.ipynb",
+        "Chapter_14_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Select and parameterize continuous and discrete probability distributions.",
+        "Compute descriptive statistics and confidence intervals.",
+        "Choose and interpret common hypothesis tests.",
+        "Assess correlation and avoid common inferential errors."
+      ],
+      "prerequisites": "NumPy arrays, Pandas filtering/grouping, and foundational probability concepts."
+    },
+    {
+      "number": 15,
+      "title": "Statistical Modeling with Statsmodels",
+      "folder": "Chapter_15_statistical_modeling_with_statsmodels",
+      "notebooks": [
+        "Chapter_15_Concepts_and_Theory.ipynb",
+        "Chapter_15_Step_by_Step_Tutorial.ipynb",
+        "Chapter_15_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Fit and interpret ordinary least squares regression.",
+        "Use formulas and categorical variables safely.",
+        "Interpret coefficients, confidence intervals, p-values, and model fit.",
+        "Evaluate residual assumptions and recognize model limitations.",
+        "Understand the introductory workflow for time-series analysis."
+      ],
+      "prerequisites": "Pandas, NumPy, descriptive statistics, and basic probability; SciPy statistics is recommended."
+    },
+    {
+      "number": 16,
+      "title": "Exploratory Data Analysis and Data Quality",
+      "folder": "Chapter_16_exploratory_data_analysis_and_data_quality",
+      "notebooks": [
+        "Chapter_16_Concepts_and_Theory.ipynb",
+        "Chapter_16_Step_by_Step_Tutorial.ipynb",
+        "Chapter_16_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Define grain, keys, and quality rules before analyzing.",
+        "Profile missingness, duplicates, types, ranges, and categories.",
+        "Investigate outliers without blindly deleting them.",
+        "Explore univariate and multivariate structure.",
+        "Create a reproducible EDA summary and communicate caveats."
+      ],
+      "prerequisites": "Pandas, NumPy, basic plotting, and introductory statistics."
+    },
+    {
+      "number": 17,
+      "title": "Machine Learning with Scikit-learn",
+      "folder": "Chapter_17_machine_learning_with_scikit_learn",
+      "notebooks": [
+        "Chapter_17_Concepts_and_Theory.ipynb",
+        "Chapter_17_Step_by_Step_Tutorial.ipynb",
+        "Chapter_17_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Define features, target, task type, and a baseline.",
+        "Split data before fitting transformations.",
+        "Build preprocessing and estimator pipelines.",
+        "Train regression and classification models.",
+        "Evaluate with task-appropriate metrics and cross-validation.",
+        "Recognize leakage, overfitting, and reproducibility requirements."
+      ],
+      "prerequisites": "Python, NumPy, Pandas, descriptive statistics, and basic train/test reasoning."
+    },
+    {
+      "number": 18,
+      "title": "Building Data Applications with Streamlit",
+      "folder": "Chapter_18_building_data_applications_with_streamlit",
+      "notebooks": [
+        "Chapter_18_Concepts_and_Theory.ipynb",
+        "Chapter_18_Step_by_Step_Tutorial.ipynb",
+        "Chapter_18_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Explain Streamlit\u2019s script rerun model.",
+        "Build layouts with titles, columns, containers, and sidebar widgets.",
+        "Use caching appropriately for data and resources.",
+        "Connect CSV and MySQL data safely.",
+        "Structure, test, and deploy a small analytical application."
+      ],
+      "prerequisites": "Python, Pandas, and at least one visualization library; install Streamlit separately."
+    },
+    {
+      "number": 19,
+      "title": "End-to-End Data Analysis Capstone",
+      "folder": "Chapter_19_end_to_end_data_analysis_capstone",
+      "notebooks": [
+        "Chapter_19_Concepts_and_Theory.ipynb",
+        "Chapter_19_Step_by_Step_Tutorial.ipynb",
+        "Chapter_19_Practical_Lab_and_Exercises.ipynb"
+      ],
+      "learning_goals": [
+        "Design a complete analytical workflow from a business question.",
+        "Load, validate, clean, and join multiple data sources.",
+        "Create reproducible metrics and statistical analyses.",
+        "Build visual findings and a simple predictive baseline.",
+        "Deliver a documented notebook, exported outputs, and dashboard-ready dataset."
+      ],
+      "prerequisites": "Completion of the earlier foundations, processing, database, visualization, and analysis chapters."
+    }
+  ],
+  "dataset_files": [
+    "README.md",
+    "customers.csv",
+    "messy_sales.csv",
+    "orders.csv",
+    "sales.csv",
+    "sample_api_response.json",
+    "sample_page.html",
+    "students.csv",
+    "weather.json"
+  ],
+  "notebook_count": 58,
+  "chapter_count": 19,
+  "created_utc_date": "2026-11-04",
+  "code_cell_count": 265,
+  "notebook_format_validation": "passed",
+  "cell_execution_validation": "passed",
+  "output_preview_count": 24
+}

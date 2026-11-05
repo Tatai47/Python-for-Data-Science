@@ -1,0 +1,22 @@
+[
+  {
+    "region":"East",
+    "orders":63,
+    "revenue":8707069.7599999998
+  },
+  {
+    "region":"North",
+    "orders":53,
+    "revenue":8161814.8999999994
+  },
+  {
+    "region":"South",
+    "orders":58,
+    "revenue":10179983.5600000005
+  },
+  {
+    "region":"West",
+    "orders":66,
+    "revenue":12370641.4399999995
+  }
+]

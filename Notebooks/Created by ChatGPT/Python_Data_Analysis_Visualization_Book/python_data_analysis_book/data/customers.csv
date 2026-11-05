@@ -1,0 +1,16 @@
+customer_id,customer_name,city,signup_date,segment
+C001,Aditi Shah,Kolkata,2024-01-01,Retail
+C002,Rahul Das,Delhi,2024-01-24,Corporate
+C003,Neha Roy,Mumbai,2024-02-16,Retail
+C004,Karan Mehta,Pune,2024-03-10,SMB
+C005,Sana Khan,Kolkata,2024-04-02,Corporate
+C006,Dev Patel,Chennai,2024-04-25,Retail
+C007,Maya Iyer,Bengaluru,2024-05-18,Corporate
+C008,Arjun Bose,Delhi,2024-06-10,Retail
+C009,Ishita Sen,Kolkata,2024-07-03,SMB
+C010,Kabir Jain,Pune,2024-07-26,Corporate
+C011,Riya Nair,Mumbai,2024-08-18,Retail
+C012,Aman Gupta,Chennai,2024-09-10,Corporate
+C013,Tara Paul,Bengaluru,2024-10-03,Retail
+C014,Neil Dutta,Kolkata,2024-10-26,SMB
+C015,Zoya Ali,Delhi,2024-11-18,Corporate
